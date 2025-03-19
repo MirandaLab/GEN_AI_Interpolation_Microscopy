@@ -19,3 +19,5 @@ Add the following paths to your 'Advanced System Settings' > 'Environment Variab
 4. <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.2\extras\CUPTI\lib64
 5. <INSTALL_PATH>\NVIDIA GPU Computing Toolkit\CUDA\v11.2\cuda\bin
 
+# Interpolating images
+After the CUDA setup interpolate images using [CDFI](Interpolation/CDFI/README.md), [FILM](Interpolation/FILM/README.md) or [RIFE](Interpolation/RIFE/README.md).
