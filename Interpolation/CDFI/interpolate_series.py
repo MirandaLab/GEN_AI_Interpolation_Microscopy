@@ -1,4 +1,10 @@
 """
+Author: Swaraj Kaondal, Miranda lab
+Adapted from interpolate_video.py:
+Source: https://github.com/tding1/CDFI/blob/main/interpolate_video.py
+Original work by tding1, modified for custom requirements.
+
+Description:
 This script uses the CDFI model to create interpolated images of all the real images in a time series.
 It interpolates an image in the seires by taking i and i+2 image and interpolating the i+1 image of that series.
 """

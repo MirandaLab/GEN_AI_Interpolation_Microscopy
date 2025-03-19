@@ -1,4 +1,7 @@
 """
+Author: Swaraj Kaondal, Miranda lab
+
+Description:
 This script uses the RIFE model to create interpolated images of all the real images in a time series.
 It interpolates an image in the seires by taking i and i+2 image and interpolating the i+1 image of that series.
 """

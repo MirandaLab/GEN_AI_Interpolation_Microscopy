@@ -1,4 +1,7 @@
 """
+Author: Swaraj Kaondal, Miranda lab
+
+Description:
 This script uses the RIFE model to create interpolated images between the images in a time series.
 """
 import os
